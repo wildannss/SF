@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "https://downloaddz.com/ads/?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://websdownload.com/ads/?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
